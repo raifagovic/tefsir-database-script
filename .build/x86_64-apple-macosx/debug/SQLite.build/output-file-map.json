@@ -1,0 +1,215 @@
+{
+  "": {
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/master.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Core/Backup.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Backup.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Backup.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Backup~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Backup.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Core/Blob.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Blob.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Blob.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Blob~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Blob.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Core/Connection+Aggregation.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Connection+Aggregation.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Connection+Aggregation.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Connection+Aggregation~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Connection+Aggregation.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Core/Connection+Attach.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Connection+Attach.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Connection+Attach.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Connection+Attach~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Connection+Attach.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Core/Connection+Pragmas.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Connection+Pragmas.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Connection+Pragmas.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Connection+Pragmas~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Connection+Pragmas.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Core/Connection.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Connection.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Connection.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Connection~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Connection.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Core/Errors.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Errors.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Errors.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Errors~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Errors.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Core/Result.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Result.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Result.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Result~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Result.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Core/SQLiteFeature.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/SQLiteFeature.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/SQLiteFeature.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/SQLiteFeature~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/SQLiteFeature.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Core/SQLiteVersion.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/SQLiteVersion.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/SQLiteVersion.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/SQLiteVersion~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/SQLiteVersion.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Core/Statement.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Statement.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Statement.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Statement~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Statement.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Core/URIQueryParameter.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/URIQueryParameter.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/URIQueryParameter.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/URIQueryParameter~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/URIQueryParameter.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Core/Value.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Value.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Value.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Value~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Core/Value.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Extensions/Cipher.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Extensions/Cipher.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Extensions/Cipher.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Extensions/Cipher~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Extensions/Cipher.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Extensions/FTS4.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Extensions/FTS4.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Extensions/FTS4.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Extensions/FTS4~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Extensions/FTS4.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Extensions/FTS5.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Extensions/FTS5.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Extensions/FTS5.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Extensions/FTS5~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Extensions/FTS5.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Extensions/RTree.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Extensions/RTree.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Extensions/RTree.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Extensions/RTree~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Extensions/RTree.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Foundation.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Foundation.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Foundation.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Foundation~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Foundation.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Helpers.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Helpers.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Helpers.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Helpers~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Helpers.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Schema/Connection+Schema.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Schema/Connection+Schema.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Schema/Connection+Schema.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Schema/Connection+Schema~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Schema/Connection+Schema.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Schema/SchemaChanger.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Schema/SchemaChanger.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Schema/SchemaChanger.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Schema/SchemaChanger~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Schema/SchemaChanger.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Schema/SchemaDefinitions.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Schema/SchemaDefinitions.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Schema/SchemaDefinitions.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Schema/SchemaDefinitions~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Schema/SchemaDefinitions.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Schema/SchemaReader.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Schema/SchemaReader.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Schema/SchemaReader.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Schema/SchemaReader~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Schema/SchemaReader.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Typed/AggregateFunctions.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/AggregateFunctions.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/AggregateFunctions.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/AggregateFunctions~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/AggregateFunctions.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Typed/Coding.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/Coding.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/Coding.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/Coding~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/Coding.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Typed/Collation.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/Collation.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/Collation.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/Collation~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/Collation.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Typed/CoreFunctions.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/CoreFunctions.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/CoreFunctions.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/CoreFunctions~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/CoreFunctions.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Typed/CustomFunctions.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/CustomFunctions.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/CustomFunctions.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/CustomFunctions~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/CustomFunctions.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Typed/DateAndTimeFunctions.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/DateAndTimeFunctions.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/DateAndTimeFunctions.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/DateAndTimeFunctions~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/DateAndTimeFunctions.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Typed/Expression.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/Expression.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/Expression.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/Expression~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/Expression.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Typed/Operators.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/Operators.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/Operators.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/Operators~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/Operators.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Typed/Query+with.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/Query+with.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/Query+with.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/Query+with~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/Query+with.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Typed/Query.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/Query.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/Query.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/Query~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/Query.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Typed/Schema.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/Schema.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/Schema.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/Schema~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/Schema.swiftdeps"
+  },
+  "/Users/Raif/Documents/TafsirDatabaseScript/.build/checkouts/SQLite.swift/Sources/SQLite/Typed/Setter.swift": {
+    "dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/Setter.d",
+    "object": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/Setter.swift.o",
+    "swiftmodule": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/Setter~partial.swiftmodule",
+    "swift-dependencies": "/Users/Raif/Documents/TafsirDatabaseScript/.build/x86_64-apple-macosx/debug/SQLite.build/Typed/Setter.swiftdeps"
+  }
+}
